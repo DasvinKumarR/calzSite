@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-color: #FFFBEB;
+}
+
+.image {
+    margin-top: 155px;
+    margin-bottom: 30px;
+    width: 200px;
+    height: 200px;
+}
+
+.num2 {
+    margin-right: 20px;
+}
+
+.CalBtnDiv {
+    margin-top: 25px;
+}
+
+input[type="text"] {
+    border: 3px solid #A5F1E9;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    background-color: transparent;
+}
+
+input[type="text"]:focus {
+    outline: none;
+    box-shadow: 0;
+}
+
+.result {
+    margin-right: 10px;
+}
+
+p {
+    font-size: 20px;
+}

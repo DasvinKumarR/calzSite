@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-image: url("space.jpg");
+}
+
+.title-div {
+    margin-top: 252px;
+}
+
+.heading {
+    font-family: 'Rubik Bubbles', cursive; 
+    font-size: 50px;
+    color: white;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}
+
+.startBtn {
+    margin-top: 37px;
+    width: 170px;
+}
