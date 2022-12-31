@@ -4,8 +4,8 @@ window.onload = () => {
 };
 
 function calculator() {
-    let number1 = (document.querySelector(".num1").value);
-    let number2 = (document.querySelector(".num2").value);
+    let number1 = Number(document.querySelector(".num1").value);
+    let number2 = Number(document.querySelector(".num2").value);
     let result = document.querySelector(".resultValue");
     let operat = document.querySelector("#operator");
     let operatValue = operat.value;
